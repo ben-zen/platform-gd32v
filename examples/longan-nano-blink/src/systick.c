@@ -33,6 +33,8 @@ OF SUCH DAMAGE.
 */
 
 #include "gd32vf103.h"
+#include "gd32vf103_rcu.h"
+#include "n200_func.h"
 #include "systick.h"
 
 /*!
